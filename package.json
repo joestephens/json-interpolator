@@ -1,0 +1,11 @@
+{
+  "name": "handlebar-json-interpolator",
+  "version": "1.0.0",
+  "description": "Replaces handlebar placeholders in static files with JSON values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Stephens",
+  "license": "ISC"
+}

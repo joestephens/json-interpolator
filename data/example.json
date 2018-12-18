@@ -1,0 +1,19 @@
+{
+  "BasketText": "Basket",
+  "LandingSlides": [{
+    "Id": "slide-1",
+    "Text": "Amazing offers",
+    "Cta": "Shop now"
+  }],
+  "Footer": {
+    "CopyrightText": "&copy; 2018",
+    "Links": [{
+      "Text": "Privacy Policy",
+      "Href": "#"
+    }],
+    "Sitemap": {
+      "ClassName": "sitemap",
+      "Links": []
+    }
+  }
+}
